@@ -4,9 +4,10 @@ Ce script déchiffre un fichier chiffré avec AES-128-CBC en utilisant une clé 
 
 ## Utilisation
 
-1. Copiez le zip d'entré dans le même dossier que le script.
-2. Exécutez le script en exécutant `NAMEFILE=input.zip PASSWORD=pass KEY=key node index.js` en ajoutant le nom du fichier d'entrée.
-3. Le fichier déchiffré sera créé dans le même dossier.
+1. npm install
+2. Copiez le zip d'entré dans le même dossier que le script.
+3. Exécutez le script en exécutant `NAMEFILE=input.zip PASSWORD=pass KEY=key node index.js` en ajoutant le nom du fichier d'entrée.
+4. Le fichier déchiffré sera créé dans le même dossier.
 
 ## Notes
 
